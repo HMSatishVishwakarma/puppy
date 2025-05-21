@@ -17,5 +17,7 @@ func Barking() string {
 }
 
 func BarkingLoud(s string) string {
+	//
+	// This is a placeholder for the actual implementation
 	return dog.WhenGrownUp(s)
 }
